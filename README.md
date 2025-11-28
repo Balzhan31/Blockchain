@@ -5,7 +5,10 @@
 ### <img width="1042" height="601" alt="Снимок экрана 2025-11-28 в 14 43 42" src="https://github.com/user-attachments/assets/50b865ef-26c4-46b3-a8a1-193a326aa502" />
 
 ### Confirming Transaction
-### ![Uploading Снимок экрана 2025-11-28 в 14.43.55.png…]()
+### <img width="404" height="599" alt="Снимок экрана 2025-11-28 в 14 43 55" src="https://github.com/user-attachments/assets/49717162-65aa-4385-9e1a-f5330b18fafa" />
+
+
+
 
 
 
